@@ -36,7 +36,7 @@ Random Forest Classifier: Trains a random forest classifier and evaluates its ac
 
 The accuracy of each model is printed for comparison.
 
-**#Prediction on Test Data**📊
+**Prediction on Test Data**📊
 
 The best-performing model (Random Forest Classifier) is used to make predictions on the test dataset. The predictions are saved to an output CSV file (output.csv) with the following columns:
 
