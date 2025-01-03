@@ -1,7 +1,7 @@
-##Titanic Survival Prediction Model
+#Titanic Survival Prediction Model
 This repository contains the implementation of a machine learning model for predicting the survival of passengers on the Titanic. The model uses various machine learning algorithms to achieve accurate predictions based on the dataset provided by the Kaggle Titanic competition.
 
-#Data Preprocessing
+##Data Preprocessing
 The Preprocess function combines the training and test datasets and performs several preprocessing steps:
 
 Drops irrelevant columns ('Name' and 'Ticket').
