@@ -44,8 +44,10 @@ PassengerId: ID of the passenger.
 
 Survived: Predicted survival (0 or 1).
 
-👇👇
+
 **#Cloning the repository**
+
+**👇👇**
 
 git clone https://github.com/yourusername/Titanic-Survival-Prediction.git
 
