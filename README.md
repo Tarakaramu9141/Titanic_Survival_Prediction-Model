@@ -45,7 +45,7 @@ PassengerId: ID of the passenger.
 Survived: Predicted survival (0 or 1).
 
 
-**#Cloning the repository**
+**Cloning the repository**
 
 **👇👇**
 
